@@ -1,0 +1,21 @@
+{
+  "name": "kangku",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "npm@11.16.0",
+  "engines": {
+    "node": ">=24 <25",
+    "npm": ">=11 <12"
+  },
+  "scripts": {
+    "doctor": "powershell -ExecutionPolicy Bypass -File ./scripts/doctor.ps1",
+    "android:emulator": "powershell -ExecutionPolicy Bypass -File ./scripts/start-emulator.ps1",
+    "android:ports": "powershell -ExecutionPolicy Bypass -File ./scripts/connect-android.ps1",
+    "mobile:start": "npm --prefix apps/mobile start",
+    "mobile:android": "npm --prefix apps/mobile run android",
+    "mobile:check": "npm --prefix apps/mobile run typecheck && npm --prefix apps/mobile run lint && npm --prefix apps/mobile test -- --runInBand",
+    "toss:dev": "npm --prefix apps/toss run dev",
+    "toss:build": "npm --prefix apps/toss run build",
+    "toss:check": "npm --prefix apps/toss run typecheck && npm --prefix apps/toss run lint && npm --prefix apps/toss test -- --runInBand"
+  }
+}

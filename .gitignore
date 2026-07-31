@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# React Native / Android
+apps/mobile/android/.gradle/
+apps/mobile/android/app/build/
+apps/mobile/android/build/
+apps/mobile/android/local.properties
+apps/mobile/ios/Pods/
+apps/mobile/ios/build/
+
+# Apps in Toss / Granite
+apps/toss/.granite/
+apps/toss/dist/
+apps/toss/*.ait
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Inspection artifacts
+tmp/
+coverage/
+*.log
