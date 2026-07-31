@@ -1,0 +1,1 @@
+{"name":"kangku-mobile","private":true,"version":"0.1.0","scripts":{"typecheck":"tsc --noEmit","start":"expo start"},"dependencies":{"@tanstack/react-query":"latest","expo":"latest","react":"latest","react-native":"latest"},"devDependencies":{"@types/react":"latest","typescript":"latest"}}
