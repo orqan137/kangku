@@ -2,13 +2,13 @@
 
 > 함께 꾸미는 강의실 — PDF 강의자료에 실시간으로 필기하고 공유하는 협업 학습 앱
 
-![강꾸 캐릭터 라인업](assets/characters/ganggung-character-lineup.png)
+![강꾸 캐릭터 라인업](assets/characters/ganggu-character-lineup.png)
 
 ## 캐릭터 소개
 
 | 몽글 | 토리 | 콩콩 | 누리 | 모아 |
 |:---:|:---:|:---:|:---:|:---:|
-| ![몽글](assets/characters/ganggung-01-mongle-pencil.png) | ![토리](assets/characters/ganggung-02-tori-question.png) | ![콩콩](assets/characters/ganggung-03-kong-focus.png) | ![누리](assets/characters/ganggung-04-nuri-share.png) | ![모아](assets/characters/ganggung-05-moa-group.png) |
+| ![몽글](assets/characters/ganggu-01-mongle-pencil.png) | ![토리](assets/characters/ganggu-02-tori-question.png) | ![콩콩](assets/characters/ganggu-03-kong-focus.png) | ![누리](assets/characters/ganggu-04-nuri-share.png) | ![모아](assets/characters/ganggu-05-moa-group.png) |
 | 공동 필기 리더 | 질문·채팅 버디 | 집중 타이머 버디 | 자료 공유 버디 | 스터디 그룹 오거나이저 |
 
 ## 주요 기능
